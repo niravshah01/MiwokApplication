@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PrectApp</string>
+    <string name="Number">Number</string>
+    <string name="Member">Member</string>
+    <string name="Color">Color</string>
+    <string name="Age">Age</string>
+    <string name="Food">Food</string>
+</resources>
